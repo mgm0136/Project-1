@@ -1,0 +1,14 @@
+body {
+  text-align: center;
+  font-family: Cursive, Serif;
+}
+
+button {
+font-size: 29px;
+background-color: #ghf;
+box-shadow: 8px 10px 19px #235;
+border-style: dash;
+border-radius: 50%;
+  height: 100px;
+  width: 100px;
+}
